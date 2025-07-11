@@ -32,7 +32,7 @@ Before starting, ensure you have:
 - Customize your VM in settings and allocate resources to your liking.
 - You can right click to clone your VM along with its settings
 <p align="center">
-<img src="https://imgur.com/GHEaUvl.png" alt="Domain Controller Configuration" width="80%" height="80%" />
+<img src="https://i.imgur.com/Axr3WWN.png" alt="Domain Controller Configuration" width="80%" height="80%" />
 </p>
 
 ---
