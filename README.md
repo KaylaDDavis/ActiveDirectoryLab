@@ -70,7 +70,7 @@ Before starting, ensure you have:
 
 - Select 'Add role and features'
 <p align="center">
-<img src="https://imgur.com/EB5V23d.png" alt="Active Directory Installation" width="80%" height="80%" />
+<img src="https://i.imgur.com/CPPngcr.png" alt="Active Directory Installation" width="80%" height="80%" />
 </p>
 
 - Check Active Directory Domain Services and select next> install.
