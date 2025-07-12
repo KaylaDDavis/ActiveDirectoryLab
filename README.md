@@ -52,7 +52,7 @@ Before starting, ensure you have:
 - Unlock the sign in screen by selecting Input > keyboard > Insert Ctrl-alt-delete
 
 <p align="center">
-<img src="https://imgur.com/QBqkeQy.png" alt="Windows Server Installation" width="80%" height="80%" />
+<img src="https://i.imgur.com/JdQSmti.png" alt="Windows Server Installation" width="80%" height="80%" />
 </p>
 ---
 
