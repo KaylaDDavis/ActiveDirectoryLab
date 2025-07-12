@@ -63,7 +63,7 @@ Before starting, ensure you have:
 </p>
 
 <p align="center">
-<img src="https://imgur.com/Vvur0AN.png" alt="IP Configuration" width="80%" height="80%" />
+<img src="https://i.imgur.com/cjMkBak.png" alt="IP Configuration" width="80%" height="80%" />
 </p>
 
 #### Install Active Directory Domain Services. AD DS
