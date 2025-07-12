@@ -76,7 +76,7 @@ Before starting, ensure you have:
 - Check Active Directory Domain Services and select next> install.
 
 <p align="center">
-<img src="https://imgur.com/Ubv04n1.png" alt="Active Directory Installation" width="80%" height="80%" />
+<img src="https://i.imgur.com/M2pyyxc.png" alt="Active Directory Installation" width="80%" height="80%" />
 </p>
 
 - In the upper right corner of your screen select Post Deployment configuration
